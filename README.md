@@ -1,0 +1,2 @@
+# PhazeCoins
+rawhouser.net setup
